@@ -38,8 +38,9 @@ To figure out which data sources were trustworthy, I had to standardize the repu
 
 ## 📊 Key Findings & Insights
 
-You can view the interactive visualizations here:
-[**👉 Click here to view my Interactive Dashboard on Tableau Public**](https://public.tableau.com/views/DA_Assignment_Naveen/MyMain?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![Dashboard Preview](dashboard_screenshot.png)](https://public.tableau.com/views/DA_Assignment_Naveen/MyMain?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[**View Live Dashboard**](https://public.tableau.com/views/DA_Assignment_Naveen/MyMain?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### 1. Performance Bottlenecks
 *   **Service_4 is the MVP:** It is the fastest service (lowest load time) and handles redirects 3x less frequently than the others.
