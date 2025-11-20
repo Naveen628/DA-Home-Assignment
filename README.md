@@ -53,6 +53,15 @@ You can view my Dashboard here: [**View Live Dashboard**](https://public.tableau
 
 ---
 
+## ⚖️ Deciding What's Valuable
+The assignment asked to identify the "most valuable" parts of the data. My selection criteria basically focused on the System Health:
+
+1.  **Reputation Accuracy:** I prioritized comparing `reputation_category` against `true_reputation`. This is the highest-value metric because it directly measures whether we are keeping users safe.
+2.  **Response Codes:** I prioritized `response_code` over the `load_time`. Identifying "500 Server Errors" is more valuable for the engineering team than just seeing a high load time number.
+3.  **Data Validity:** Identifying the "1936" date anomaly was a key step in improving overall data quality, as it removed noise that would not negatively affect the data set and historical trends.
+
+---
+
 ## 📂 Repository Files
 *   `NordSecAssign_DA_Naveen.ipynb`: The Jupyter Notebook containing all my code, notes, and cleaning steps.
 *   `Final_Dashboard.png`: A static preview of the final dashboard.
