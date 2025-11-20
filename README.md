@@ -55,8 +55,6 @@ You can view the interactive visualizations here:
 ---
 
 ## 📂 Repository Structure
-*   `analysis_code.ipynb`: The Jupyter Notebook containing all my code, notes, and cleaning steps.
-*   `dashboard_screenshot.png`: A static preview of the final dashboard.
+*   `NordSecAssign_DA_Naveen.ipynb`: The Jupyter Notebook containing all my code, notes, and cleaning steps.
+*   `Final Dashboard.png`: A static preview of the final dashboard.
 *   `home_assignment_final.xlsx`: The processed dataset used for Tableau.
-
-Thank you for reviewing my work!
