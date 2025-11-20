@@ -55,5 +55,5 @@ You can view my Dashboard here: [**View Live Dashboard**](https://public.tableau
 
 ## 📂 Repository Files
 *   `NordSecAssign_DA_Naveen.ipynb`: The Jupyter Notebook containing all my code, notes, and cleaning steps.
-*   `Final Dashboard.png`: A static preview of the final dashboard.
+*   `Final_Dashboard.png`: A static preview of the final dashboard.
 *   `home_assignment_final.xlsx`: The processed dataset used for Tableau.
