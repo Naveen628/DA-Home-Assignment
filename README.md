@@ -19,7 +19,7 @@ I used **Python (Pandas)** for the heavy lifting (cleaning and merging) and **Ta
 
 ### 1. Handling the Data
 When I first opened the dataset, I saw four separate JSON files (`messages`, `priority`, `reputations`, etc.). Looking at them individually was confusing, and I instantly knew I needed to see the "whole picture."
-*   **Action:** My first step was to merge all four files on the `id` column using an `outer` join. This ensured I didn't lose any data even if a URL was missing some attributes.
+*   **Action:** My first step was to merge all four files on the `id` column. This ensured I didn't lose any data even if a URL was missing some attributes.
 
 ### 2. Data Cleaning & Challenges
 I encountered a few interesting challenges while cleaning the data:
@@ -39,7 +39,7 @@ To figure out which data sources were trustworthy, I had to standardize the repu
 ## 📊 Key Findings & Insights
 
 You can view the interactive visualizations here:
-** Click here to view my Dashboard on Tableau Public: https://public.tableau.com/views/NordSecAssignment_DA_Naveen/MyMain?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**
+[**👉 Click here to view my Interactive Dashboard on Tableau Public**](https://public.tableau.com/views/DA_Assignment_Naveen/MyMain?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### 1. Performance Bottlenecks
 *   **Service_4 is the MVP:** It is the fastest service (lowest load time) and handles redirects 3x less frequently than the others.
